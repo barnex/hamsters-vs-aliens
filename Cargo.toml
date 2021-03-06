@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "gl_safe",
+    "gl_obj",
+    "gl_vec",
+    "game",
+]
